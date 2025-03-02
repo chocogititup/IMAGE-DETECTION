@@ -1,7 +1,8 @@
 # Image Detection with OCR
+Current version is Text specific
 
 ## Overview
-This project focuses on detecting objects in images and extracting text using Optical Character Recognition (OCR). It combines image processing techniques with OCR to recognize and extract meaningful text from various sources such as scanned documents, images, and screenshots.
+This project focuses on detecting objects in images and extracting text using Optical Character Recognition (OCR). It combines image processing techniques with OCR to recognize and extract meaningful text from various sources such as scanned documents, images, and screenshots. 
 
 ## Features
 - Object detection in images
