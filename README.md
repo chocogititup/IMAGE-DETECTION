@@ -8,7 +8,7 @@ This project focuses on detecting objects in images and extracting text using Op
 - Object detection in images
 - Text extraction using OCR
 - Preprocessing for better OCR accuracy
-- Support for multiple image formats (JPG, PNG, etc.)
+- Support for multiple image formats (JPG, PNG, JPEG etc.)
 - Integration with Tesseract OCR
 
 ## Technologies Used
